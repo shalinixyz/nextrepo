@@ -6,7 +6,7 @@ public class Democlass {
 		
 		System.out.println("HEllo.......");
 		System.out.println("Hello shalini");
-
+		System.out.println("Hello SMITA");
 	}
 
 }
